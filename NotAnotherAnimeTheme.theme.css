@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://getwallpapers.com/wallpaper/full/a/f/c/1087256-black-forest-wallpaper-1920x1080-for-ipad-pro.jpg);
 
   /*
     Main Theme Color
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 64px;
 
   /*
     Font Size
